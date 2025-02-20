@@ -1,0 +1,4 @@
+- SQLAlchemy pode ser visto como uma caixa de ferramentas para conexão do python com o banco de dados, não apenas um ORM
+- É o mais utilizado para trabalhar com bancos SQL
+- MVC pattern, padrão de código. 
+- 
