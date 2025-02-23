@@ -1,4 +1,6 @@
 - SQLAlchemy pode ser visto como uma caixa de ferramentas para conexão do python com o banco de dados, não apenas um ORM
 - É o mais utilizado para trabalhar com bancos SQL
 - MVC pattern, padrão de código. 
-- 
+- Pyodbcd é um driver pra conectar ao banco de dados, essa é a diferença pro SQLAlchemy
+- ORM faz uma ligação entre o objeto e o banco 
+- Sessões: é como se fosse um commit completo do banco
